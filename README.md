@@ -2,9 +2,6 @@
 
 ### ⚙️ I will working on this
 
-# 💈 Barão Barbearia
-### ⚙️ I will working on this
-
 > Website for a local comerce
 #### :globe_with_meridians: [Instagram](https://www.instagram.com/barao_barbearia_/)
 
